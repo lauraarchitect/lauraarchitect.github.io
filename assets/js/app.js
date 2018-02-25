@@ -2,7 +2,7 @@ projectList = {
     "Farmhouse":{
         name:"Farmhouse Modern",
         images:[
-            "images/project/Farmhouse-Modern/_M6A9183.jpg",
+            "images/project/Farmhouse-Modern/Main.jpg",
             "images/project/Farmhouse-Modern/_M6A9194-Edit.jpg",
             "images/project/Farmhouse-Modern/hh_30-Edit.jpg",
             "images/project/Farmhouse-Modern/hh_123-Edit.jpg",
