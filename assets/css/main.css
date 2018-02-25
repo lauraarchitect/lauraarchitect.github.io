@@ -8433,3 +8433,8 @@
 #wrapper .gallery article {
 	margin: 0 5px;
 }
+
+#GalleryName{
+	padding-top:100px;
+	text-align:center;
+}

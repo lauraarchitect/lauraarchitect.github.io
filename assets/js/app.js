@@ -65,15 +65,19 @@ buildGalleryItem = function(imgSrc, container){
 showProject = function(projectId){
 
     var gallery = document.getElementById("Gallery");
-    console.log(gallery)
+    var galleryName = document.getElementById("GalleryName");
+    
+    var project = projectList[projectId]
+
+    galleryName.innerHTML = project.name;
+
     var container = gallery.getElementsByClassName("inner")[1];
     
     while (container.firstChild) {
         container.removeChild(container.firstChild);
     }
 
-    projectList[projectId].images.forEach(function(img) {
-        console.log(container)
+    project.images.forEach(function(img) {
         buildGalleryItem(img, container)
         
     });
