@@ -31,7 +31,34 @@ projectList = {
             "images/project/Iris-Street-House/Kitchen.jpg",
             "images/project/Iris-Street-House/Bath.jpg"
         ]
-    }
+    },
+    "Pine":{
+        name:"Pine Street House (Coming Soon)",
+        images:[
+            "images/project/Pine-Street-House/IMG_5137.JPG",
+            "images/project/Pine-Street-House/IMG_5138.JPG",
+            "images/project/Pine-Street-House/IMG_5139.JPG"
+        ]
+    },
+    "Spruce":{
+        name:"Spruce Street House (Under Construction)",
+        images:[
+            "images/project/Spruce-Street-House/Spruce Skylight.jpg",
+            "images/project/Spruce-Street-House/Spruce Stair.jpg",
+            "images/project/Spruce-Street-House/Spruce Street Fireplace.jpg",
+            "images/project/Spruce-Street-House/1737 electrical meeting.jpg",
+            "images/project/Spruce-Street-House/Spruce Street Tile.jpg"
+        ]
+    },
+    "Mapleton":{
+        name:"Mapleton Hill Remodel",
+        images:[
+            "images/project/Mapleton-Hill-Remodel/607 mapleton kitchen.jpg",
+            "images/project/Mapleton-Hill-Remodel/607 mapleton fireplace.jpg",
+            "images/project/Mapleton-Hill-Remodel/living room before.jpg"
+
+        ]
+    },
 }
 
 buildGalleryItem = function(imgSrc, container){
