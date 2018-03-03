@@ -8419,19 +8419,19 @@
 	margin: 10px 0;
 }
 
-#wrapper .gallery article img,
+/*#wrapper .gallery article img,
 #wrapper .gallery article
  {
 	max-height: 284px;
 	width: auto;
-}
+}*/
 
 #wrapper .gallery .inner {
 	margin :10px 0;
 }
 
 #wrapper .gallery article {
-	margin: 0 5px;
+	margin: 5px 5px;
 }
 
 #GalleryName{

@@ -35,9 +35,9 @@ projectList = {
     "Pine":{
         name:"Pine Street House (Coming Soon)",
         images:[
-            "images/project/Pine-Street-House/IMG_5137.JPG",
-            "images/project/Pine-Street-House/IMG_5138.JPG",
-            "images/project/Pine-Street-House/IMG_5139.JPG"
+            "images/project/Pine-Street-House/IMG_5137.jpg",
+            "images/project/Pine-Street-House/IMG_5138.jpg",
+            "images/project/Pine-Street-House/IMG_5139.jpg"
         ]
     },
     "Spruce":{
