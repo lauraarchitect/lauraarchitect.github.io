@@ -8435,6 +8435,20 @@
 }
 
 #GalleryName{
-	padding-top:100px;
+	padding-top:10px;
+	text-align:center;
+}
+
+#BackToProjectLink{
+	text-decoration:none;
+	position:absolute;
+	left:16px;
+	top:16px;
+	box-shadow:none !important;
+}
+
+#ProjectTitle{
+	margin-top:16px;
+	font-size:20px;
 	text-align:center;
 }

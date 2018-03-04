@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Laura Schaeffer - Architect</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="divided">
+					<h1 id="ProjectTitle">
+						Laura Schaeffer
+					</h1>
+					<a id="BackToProjectLink" href="javascript:void(0);">< Projects</a></Return>
+					<!-- Gallery -->
+					<h2 id="GalleryName" class="">
+					</h2>
+					<div id="Gallery" class="gallery style1 medium lightbox onscroll-fade-in">
+					</div>
+
+				<!-- Footer -->
+					<footer class="wrapper style1 align-center">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="#" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="#" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
+								<li><a href="#" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="#" class="icon style2 fa-linkedin"><span class="label">LinkedIn</span></a></li>
+								<li><a href="#" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
+							</ul>
+							<p>&copy; Laura Schaeffer</p>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script>
+				document.getElementById("BackToProjectLink").onclick = function(){
+					history.go(-1);
+				}
+			</script>
+			<script src="assets/js/app.js"></script>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script>
+				$(document).ready(function(){
+					function getParameterByName(name, url) {
+						if (!url) url = window.location.href;
+						name = name.replace(/[\[\]]/g, "\\$&");
+						var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+							results = regex.exec(url);
+						if (!results) return null;
+						if (!results[2]) return '';
+						return decodeURIComponent(results[2].replace(/\+/g, " "));
+					}
+
+					var projectName = getParameterByName("projectName");
+
+					showProject(projectName);
+				});
+			</script>
+	</body>
+</html>
