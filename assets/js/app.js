@@ -12,7 +12,8 @@ projectList = {
             "images/project/Farmhouse-Modern/LyonBarn13518-Edit.jpg",
             "images/project/Farmhouse-Modern/LyonBarn13758-Edit.jpg",
             "images/project/Farmhouse-Modern/LyonBarn13792-Edit.jpg"
-        ]
+        ],
+        subText: "Designed while at HMH Architecture + Interiors "
     },
     "Vassar":{
         name:"Vassar Home Remodel",
@@ -23,7 +24,8 @@ projectList = {
             "images/project/Vassar-Home-Remodel/Vassar Master Bath.jpg",
             "images/project/Vassar-Home-Remodel/Vassar Powder.jpg",
             "images/project/Vassar-Home-Remodel/Vasser Kitchen.jpg"
-        ]
+        ],
+        subText: "Designed while at HMH Architecture + Interiors "
     },
     "Iris":{
         name:"Iris Street House",
@@ -93,6 +95,7 @@ showProject = function(projectId){
 
     var gallery = document.getElementById("Gallery");
     var galleryName = document.getElementById("GalleryName");
+    var projectSubText = document.getElementById("ProjectSubText");
     
     var project = projectList[projectId]
 
@@ -108,6 +111,12 @@ showProject = function(projectId){
         buildGalleryItem(img, container)
         
     });
+
+    if (project.subText){
+        projectSubText.innerHTML = project.subText
+    }else{
+        projectSubText.innerHTML = "";
+    }
 
     gallery.scrollIntoView();
 };
