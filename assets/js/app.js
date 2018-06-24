@@ -46,7 +46,6 @@ projectList = {
         name:"Spruce Street House",
         images:[
             "images/project/Spruce-Street-House/spruce0.jpg",
-            "images/project/Spruce-Street-House/spruce7.jpg",
             "images/project/Spruce-Street-House/spruce2.jpg",
             "images/project/Spruce-Street-House/spruce3.jpg",
             "images/project/Spruce-Street-House/spruce4.jpg",
