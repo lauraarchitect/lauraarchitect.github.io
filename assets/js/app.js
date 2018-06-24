@@ -45,11 +45,14 @@ projectList = {
     "Spruce":{
         name:"Spruce Street House (Under Construction)",
         images:[
-            "images/project/Spruce-Street-House/Spruce Skylight.jpg",
-            "images/project/Spruce-Street-House/Spruce Stair.jpg",
-            "images/project/Spruce-Street-House/Spruce Street Fireplace.jpg",
-            "images/project/Spruce-Street-House/1737 electrical meeting.jpg",
-            "images/project/Spruce-Street-House/Spruce Street Tile.jpg"
+            "images/project/Spruce-Street-House/spruce0.jpg",
+            "images/project/Spruce-Street-House/spruce1.jpg",
+            "images/project/Spruce-Street-House/spruce2.jpg",
+            "images/project/Spruce-Street-House/spruce3.jpg",
+            "images/project/Spruce-Street-House/spruce4.jpg",
+            "images/project/Spruce-Street-House/spruce5.jpg",
+            "images/project/Spruce-Street-House/spruce6.jpg",
+            "images/project/Spruce-Street-House/spruce7.jpg"
         ]
     },
     "Mapleton":{
