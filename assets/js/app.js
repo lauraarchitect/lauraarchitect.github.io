@@ -109,9 +109,17 @@ projectList = {
     "Mapleton":{
         name:"Mapleton Hill Remodel",
         images:[
-            "images/project/Mapleton-Hill-Remodel/607 mapleton kitchen.jpg",
-            "images/project/Mapleton-Hill-Remodel/607 mapleton fireplace.jpg",
-            "images/project/Mapleton-Hill-Remodel/living room before.jpg"
+            "images/project/Mapleton/01.jpg",
+            "images/project/Mapleton/02.jpg",
+            "images/project/Mapleton/03.jpg",
+            "images/project/Mapleton/04.jpg",
+            "images/project/Mapleton/05.jpg",
+            "images/project/Mapleton/06.jpg",
+            "images/project/Mapleton/07.jpg",
+            "images/project/Mapleton/08.jpg",
+            "images/project/Mapleton/09.jpg",
+            "images/project/Mapleton/10.jpg",
+            "images/project/Mapleton/11.jpg",
 
         ]
     },
