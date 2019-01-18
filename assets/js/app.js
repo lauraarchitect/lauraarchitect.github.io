@@ -34,6 +34,13 @@ projectList = {
             "images/project/Iris-Street-House/Bath.jpg"
         ]
     },
+    "Monarch":{
+        name:"Monarch Home (Under Construction)",
+        images:[
+            "images/project/Monarch/Monarch1.jpg",
+            "images/project/Monarch/Monarch2.jpg"
+        ]
+    },
     "Pine":{
         name:"Pine Street House",
         images:[
