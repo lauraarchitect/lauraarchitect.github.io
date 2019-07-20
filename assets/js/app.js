@@ -188,8 +188,6 @@ showProject = function(projectId){
     }
 
     gallery.scrollIntoView();
-
-    ga('send', 'event', 'project_view', projectId)
 };
 
 var galleryLinks = document.getElementsByClassName('loadGallery');
@@ -202,6 +200,7 @@ for(var i = 0; i < galleryLinks.length; i++) {
         var projectId = e.currentTarget.getAttribute("data-project");
         //alert(projectId)
 
+        ga('send', 'event', 'project_view', projectId);
         //showProject(projectId);
         window.location += "project.html?projectName=" + projectId;
 
