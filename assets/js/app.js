@@ -162,6 +162,8 @@ buildGalleryItem = function(imgSrc, container){
 
 showProject = function(projectId){
 
+    ga('send', 'event', 'showProject', projectId);
+
     var gallery = document.getElementById("Gallery");
     var galleryName = document.getElementById("GalleryName");
     var projectSubText = document.getElementById("ProjectSubText");
@@ -199,8 +201,6 @@ for(var i = 0; i < galleryLinks.length; i++) {
         //console.log(e.currentTarget)
         var projectId = e.currentTarget.getAttribute("data-project");
         //alert(projectId)
-
-        ga('send', 'event', 'project_view', projectId);
         //showProject(projectId);
         window.location += "project.html?projectName=" + projectId;
 
