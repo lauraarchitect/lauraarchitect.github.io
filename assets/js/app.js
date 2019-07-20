@@ -188,6 +188,8 @@ showProject = function(projectId){
     }
 
     gallery.scrollIntoView();
+
+    ga('send', 'event', 'project_view', projectId)
 };
 
 var galleryLinks = document.getElementsByClassName('loadGallery');
