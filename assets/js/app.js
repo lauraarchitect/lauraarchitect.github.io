@@ -162,7 +162,7 @@ buildGalleryItem = function(imgSrc, container){
 
 showProject = function(projectId){
 
-    ga('send', 'event', 'showProject', projectId);
+    //ga('send', 'event', 'showProject', projectId);
 
     var gallery = document.getElementById("Gallery");
     var galleryName = document.getElementById("GalleryName");
