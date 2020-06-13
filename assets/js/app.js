@@ -43,6 +43,7 @@ projectList = {
     },
     "Pine":{
         name:"Pine Street House",
+        description: "The Pine Street Residence is a design that creates a warm, inviting space without erasing the essence of the original home. When the owners bought this old Victorian house in the Mapleton Hill neighborhood, it had additions and subtractions over the years that had taken some of the charm. It was an interesting study of how to meld the old and new in a way that respects the old house while giving the family the space they need. The original front porch had been removed, but I was able to recreate it from a Historic photo. A low ceiling addition from the 70’s was removed in order to make space for an open Living Room, a new staircase and a Master Suite. The house now stands proud in a way that reflects the past while embracing the now.",
         images:[
             "images/project/911Pine/01.jpg",
             "images/project/911Pine/02.jpg",
@@ -68,6 +69,7 @@ projectList = {
     },
     "Spruce":{
         name:"Spruce Street House",
+        description: "The Spruce Street Residence uses light as a main building material. I designed a central seam skylight that delineates the historic house from the new modern addition and which produces a dynamic light quality throughout the day. The wall between the Kitchen and Patio is an operable wall that allows the homeowners to basically live outside while cooking. Nearby wood slats create an energetic shadow play that is felt throughout the day. Even the basement bath has fun with expansive ten foot tall ceilings and a living garden wall.",
         images:[
             "images/project/1737SpruceMainHouse/01.jpg",
             "images/project/1737SpruceMainHouse/02.jpg",
@@ -101,6 +103,7 @@ projectList = {
     },
     "SpruceGuest":{
         name:"Spruce Street Guest House",
+        description: "The Spruce Street accessory dwelling unit (ADU) is “The Other House” built behind the Spruce Street Residence. In the rear yard of this Whittier neighborhood, the two houses are a pair, but each is built with their own ideas. The ADU is spare but cozy while embracing simplicity and natural light.",
         images:[
             "images/project/1737SpruceGuestHouse/01.jpg",
             "images/project/1737SpruceGuestHouse/02.jpg",
@@ -115,6 +118,7 @@ projectList = {
     },
     "Mapleton":{
         name:"Mapleton Hill Remodel",
+        description: "It isn’t always necessary to construct an addition to have a large impact on a home remodel. Here I took the existing footprint of this Mapleton Hill house and with a few simple moves transformed the spaces they already had into an inspiring, creative and beautiful space. By vaulting the main floor ceiling and removing a few walls, it allowed us room to construct a towering fireplace as a centerpiece to the Living Room and Kitchen. We excavated the basement down to produce ten foot ceilings that allowed the basement spaces to rival those of the main floor. The careful selection of the fireplace stone as well the lighted mineral cubbies in the bookcase design were designed to reflect the passion of the geologist homeowners.",
         images:[
             "images/project/Mapleton/01.jpg",
             "images/project/Mapleton/02.jpg",
@@ -166,6 +170,7 @@ showProject = function(projectId){
 
     var gallery = document.getElementById("Gallery");
     var galleryName = document.getElementById("GalleryName");
+    var projectDescription = document.getElementById("ProjectDescription");
     var projectSubText = document.getElementById("ProjectSubText");
     
     var project = projectList[projectId]
@@ -180,8 +185,11 @@ showProject = function(projectId){
 
     project.images.forEach(function(img) {
         buildGalleryItem(img, container)
-        
     });
+
+    if (project.description){
+        projectDescription.innerHTML = project.description
+    }
 
     if (project.subText){
         projectSubText.innerHTML = project.subText

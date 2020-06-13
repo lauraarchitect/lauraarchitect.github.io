@@ -8458,3 +8458,9 @@
     padding-top: 10px;
     margin-bottom: 10px;
 }
+
+#ProjectDescription{
+	font-size: 1.15rem;
+	padding: 20px;
+	box-shadow: none !important;
+}
