@@ -22,6 +22,16 @@ projectList = {
 `
     },
 
+    "Euclid":{
+        name:"Euclid House (Under Construction)",
+        images:[
+            "images/project/Euclid/EuclidRender.jpg",
+            "images/project/Euclid/EuclidConstruction1.jpg",
+            "images/project/Euclid/EuclidConstruction2.jpg",
+            "images/project/Euclid/EuclidConstruction3.jpg",
+        ]
+    },
+
     "Farmhouse":{
         name:"Farmhouse Modern",
         images:[
@@ -212,6 +222,8 @@ showProject = function(projectId){
 
     if (project.description){
         projectDescription.innerHTML = project.description
+    }else{
+        projectDescription.remove();
     }
 
     if (project.subText){
