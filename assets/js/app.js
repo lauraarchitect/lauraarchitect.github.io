@@ -1,4 +1,27 @@
 projectList = {
+    "Awards":{
+        name:"Awards and Publications",
+        images: [
+            "images/project/Awards/LauraSchaefferMagazine.jpg"
+        ],
+        description:`
+        <ul>
+            <li>City of Boulder Historic Preservation Award, 2019</li>
+
+            <li>Spruce Street Residence - Colorado Homes and Lifestyles, May 2019 <a class='externalLink' href='https://www.coloradohomesmag.com/asian-fusion/' target='_blank'>View Publication</a>
+            </li>
+
+            <li>Pine Street Residence - Colorado Homes and Lifestyles, April 2019</li>
+
+            <li>Pine Street Residence - Colorado Homes and Lifestyles, Jan/Feb 2019 <a class='externalLink' href='https://www.coloradohomesmag.com/a-boulder-victorian-back-to-its-original-bones/' target='_blank'>View Publication</a></li>
+
+            <li>Associate of the Year- AIA Colorado North, 2014</li>
+
+            <li>Presidential Award- AIA Colorado North, 2013</li>
+        </ul>    
+`
+    },
+
     "Farmhouse":{
         name:"Farmhouse Modern",
         images:[
@@ -197,7 +220,7 @@ showProject = function(projectId){
         projectSubText.innerHTML = "";
     }
 
-    gallery.scrollIntoView();
+    //gallery.scrollIntoView();
 };
 
 var galleryLinks = document.getElementsByClassName('loadGallery');
