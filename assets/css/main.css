@@ -6446,7 +6446,7 @@
 		}
 
 		.gallery.style1.big article {
-			width: 90%;
+			width: 66%;
 		}
 
 			.gallery.style1.big article .caption {
@@ -6456,7 +6456,7 @@
 		@media screen and (max-width: 1280px) {
 
 			.gallery.style1.big article {
-				width: 90%;
+				width: 66%;
 			}
 
 				.gallery.style1.big article .caption {
@@ -6468,7 +6468,7 @@
 		@media screen and (max-width: 980px) {
 
 			.gallery.style1.big article {
-				width: 90%;
+				width: 75%;
 			}
 
 				.gallery.style1.big article .caption {

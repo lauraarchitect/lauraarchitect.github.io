@@ -2,7 +2,9 @@ projectList = {
     "Awards":{
         name:"Awards and Publications",
         images: [
-            "images/project/Awards/LauraSchaefferMagazine.jpg"
+            "images/project/Awards/SpruceCover.jpg",
+            "images/project/Awards/911PineBathroom-April2019-2.jpg",
+            "images/project/Awards/PineMagazineCHL.jpg"
         ],
         description:`
         <ul>
