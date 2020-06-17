@@ -100,7 +100,8 @@ projectList = {
             "images/project/911Pine/18.jpg",
             "images/project/911Pine/19.jpg",
             "images/project/911Pine/20.jpg",
-        ]
+        ],
+        subText: "Photos by Dane Cronin Photography"
     },
     "Spruce":{
         name:"Spruce Street House",
@@ -134,7 +135,8 @@ projectList = {
             "images/project/1737SpruceMainHouse/26.jpg",
             "images/project/1737SpruceMainHouse/27.jpg",
             "images/project/1737SpruceMainHouse/28.jpg",
-        ]
+        ],
+        subText: "Photos by Dane Cronin Photography"
     },
     "SpruceGuest":{
         name:"Spruce Street Guest House",
@@ -148,8 +150,8 @@ projectList = {
             "images/project/1737SpruceGuestHouse/06.jpg",
             "images/project/1737SpruceGuestHouse/07.jpg",
             "images/project/1737SpruceGuestHouse/08.jpg",
-
-        ]
+        ],
+        subText: "Photos by Dane Cronin Photography"
     },
     "Mapleton":{
         name:"Mapleton Hill Remodel",
@@ -167,7 +169,8 @@ projectList = {
             "images/project/Mapleton/10.jpg",
             "images/project/Mapleton/11.jpg",
 
-        ]
+        ],
+        subText: "Photos by Dane Cronin Photography"
     },
 }
 
