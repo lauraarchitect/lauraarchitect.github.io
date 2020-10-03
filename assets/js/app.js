@@ -70,10 +70,25 @@ projectList = {
         ]
     },
     "Monarch":{
-        name:"Monarch Home (Under Construction)",
+        name:"Monarch Home",
         images:[
-            "images/project/Monarch/Monarch1.jpg",
-            "images/project/Monarch/Monarch2.jpg"
+            "images/project/Monarch/01.gif",
+            "images/project/Monarch/02.gif",
+            "images/project/Monarch/03.gif",
+            "images/project/Monarch/04.gif",
+            "images/project/Monarch/05.gif",
+            "images/project/Monarch/06.gif",
+            "images/project/Monarch/07.gif",
+            "images/project/Monarch/08.gif",
+            "images/project/Monarch/09.gif",
+            "images/project/Monarch/10.gif",
+            "images/project/Monarch/11.gif",
+            "images/project/Monarch/12.gif",
+            "images/project/Monarch/13.gif",
+            "images/project/Monarch/14.gif",
+            "images/project/Monarch/15.gif",
+            "images/project/Monarch/16.gif"
+
         ]
     },
     "Pine":{
