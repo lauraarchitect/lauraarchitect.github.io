@@ -8468,3 +8468,13 @@
 .externalLink{
 	color:peru;
 }
+
+#ContactInfo{
+	text-align:center;
+	padding:20px 0;
+}
+
+.contactInfoLabel{
+	margin-right: 5px;
+	margin-left:15px;
+}

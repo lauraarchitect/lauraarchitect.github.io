@@ -3,11 +3,22 @@ projectList = {
         name:"Awards and Publications",
         images: [
             "images/project/Awards/SpruceCover.jpg",
+            "images/project/Awards/Five Under Forty.jpg",
+            "images/project/Awards/1737 Spruce - August 2020.jpg",
             "images/project/Awards/911PineBathroom-April2019-2.jpg",
             "images/project/Awards/PineMagazineCHL.jpg"
         ],
         description:`
         <ul>
+
+            <li>The Voice Of Laura- Mile High Modern, July 2020 
+                <a class='externalLink' href='https://milehimodern.com/the-voice-of-laura-schaeffer/' target='_blank'>View Publication</a>
+            </li>
+
+            <li>Five Under Forty Award- Colorado Homes and Lifestyles, July 2020 
+                <a class='externalLink' href='https://www.coloradohomesmag.com/five-under-forty-laura-schaeffer/' target='_blank'>View Publication</a>
+            </li>
+
             <li>City of Boulder Historic Preservation Award, 2019</li>
 
             <li>Spruce Street Residence - Colorado Homes and Lifestyles, May 2019 <a class='externalLink' href='https://www.coloradohomesmag.com/asian-fusion/' target='_blank'>View Publication</a>
