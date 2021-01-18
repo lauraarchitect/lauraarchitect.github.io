@@ -36,12 +36,28 @@ projectList = {
     },
 
     "Euclid":{
-        name:"Euclid House (Under Construction)",
+        name:"Euclid House",
         images:[
-            "images/project/Euclid/EuclidRender.jpg",
-            "images/project/Euclid/EuclidConstruction1.jpg",
-            "images/project/Euclid/EuclidConstruction2.jpg",
-            "images/project/Euclid/EuclidConstruction3.jpg",
+            "images/project/Euclid/01.jpg",
+            "images/project/Euclid/02.jpg",
+            "images/project/Euclid/03.jpg",
+            "images/project/Euclid/04.jpg",
+            "images/project/Euclid/05.jpg",
+            "images/project/Euclid/06.jpg",
+            "images/project/Euclid/07.jpg",
+            "images/project/Euclid/08.jpg",
+            "images/project/Euclid/09.jpg",
+            "images/project/Euclid/10.jpg",
+            "images/project/Euclid/11.jpg",
+            "images/project/Euclid/12.jpg",
+            "images/project/Euclid/13.jpg",
+            "images/project/Euclid/14.jpg",
+            "images/project/Euclid/15.jpg",
+            "images/project/Euclid/16.jpg",
+            "images/project/Euclid/17.jpg",
+            "images/project/Euclid/18.jpg",
+            "images/project/Euclid/19.jpg",
+            "images/project/Euclid/20.jpg",
         ]
     },
 
