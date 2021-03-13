@@ -61,6 +61,43 @@ projectList = {
         ]
     },
 
+    "Highland":{
+        name:"Highland Home Remodel",
+        images:[
+            "images/project/Highland/01.jpg",
+            "images/project/Highland/02.jpg",
+            "images/project/Highland/03.jpg",
+            "images/project/Highland/04.jpg",
+            "images/project/Highland/05.jpg",
+            "images/project/Highland/06.jpg",
+            "images/project/Highland/07.jpg",
+            "images/project/Highland/08.jpg",
+            "images/project/Highland/09.jpg",
+            "images/project/Highland/10.jpg",
+            "images/project/Highland/11.jpg",
+            "images/project/Highland/12.jpg",
+            "images/project/Highland/13.jpg",
+            "images/project/Highland/14.jpg",
+            "images/project/Highland/15.jpg",
+            "images/project/Highland/16.jpg",
+            "images/project/Highland/17.jpg",
+            "images/project/Highland/18.jpg",
+            "images/project/Highland/19.jpg",
+            "images/project/Highland/20.jpg",
+            "images/project/Highland/31.jpg",
+            "images/project/Highland/32.jpg",
+            "images/project/Highland/33.jpg",
+            "images/project/Highland/34.jpg",
+            "images/project/Highland/35.jpg",
+            "images/project/Highland/36.jpg",
+            "images/project/Highland/37.jpg",
+            "images/project/Highland/38.jpg",
+            "images/project/Highland/39.jpg",
+            "images/project/Highland/30.jpg",
+            "images/project/Highland/31.jpg"
+        ]
+    },
+
     "Farmhouse":{
         name:"Farmhouse Modern",
         images:[
@@ -77,7 +114,7 @@ projectList = {
         ],
         subText: "Designed while at HMH Architecture + Interiors "
     },
-    "Vassar":{
+    /*"Vassar":{
         name:"Vassar Home Remodel",
         images:[
             "images/project/Vassar-Home-Remodel/Vassar Bar to Entry.jpg",
@@ -88,12 +125,14 @@ projectList = {
             "images/project/Vassar-Home-Remodel/Vasser Kitchen.jpg"
         ],
         subText: "Designed while at HMH Architecture + Interiors "
-    },
-    "Iris":{
-        name:"Iris Street House",
+    },*/
+    "OnTheBoards":{
+        name:"On The Boards",
         images:[
-            "images/project/Iris-Street-House/Kitchen.jpg",
-            "images/project/Iris-Street-House/Bath.jpg"
+            "images/project/OnTheBoards/1-web.jpg",
+            "images/project/OnTheBoards/2-web.jpg",
+            "images/project/OnTheBoards/3-web.jpg",
+            "images/project/OnTheBoards/4-web.jpg",
         ]
     },
     "Monarch":{
