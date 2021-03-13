@@ -4766,6 +4766,7 @@
 
 			.spotlight.style1 .image {
 				width: 100%;
+				margin:0 !important;
 			}
 
 				.spotlight.style1 .image img {
