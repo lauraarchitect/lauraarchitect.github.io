@@ -11,7 +11,7 @@ projectList = {
         description:`
         <ul>
             <li>The Best Residential Architects in Boulder, Colorado
-                <a class='externalLink' href='https://www.homebuilderdigest.com/the-best-residential-architects-in-boulder-colorado/s' target='_blank'>View Publication</a>
+                <a class='externalLink' href='https://www.homebuilderdigest.com/the-best-residential-architects-in-boulder-colorado/' target='_blank'>View Publication</a>
             </li>
             <li>The Voice Of Laura- Mile High Modern, July 2020 
                 <a class='externalLink' href='https://milehimodern.com/the-voice-of-laura-schaeffer/' target='_blank'>View Publication</a>
