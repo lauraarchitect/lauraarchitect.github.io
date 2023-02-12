@@ -256,6 +256,34 @@ projectList = {
         ],
         subText: "Photos by Dane Cronin Photography"
     },
+    "Shingle":{
+        name:"Shingle House",
+        description: "",
+        images:[
+            "images/project/Shingle/01.jpg",
+            "images/project/Shingle/02.jpg",
+            "images/project/Shingle/03.jpg",
+            "images/project/Shingle/04.jpg",
+            "images/project/Shingle/05.jpg",
+            "images/project/Shingle/06.jpg",
+            "images/project/Shingle/07.jpg",
+            "images/project/Shingle/08.jpg",
+            "images/project/Shingle/09.jpg",
+            "images/project/Shingle/10.jpg",
+            "images/project/Shingle/11.jpg",
+            "images/project/Shingle/12.jpg",
+            "images/project/Shingle/13.jpg",
+            "images/project/Shingle/14.jpg",
+            "images/project/Shingle/15.jpg",
+            "images/project/Shingle/16.jpg",
+            "images/project/Shingle/17.jpg",
+            "images/project/Shingle/18.jpg",
+            "images/project/Shingle/19.jpg",
+            "images/project/Shingle/20.jpg",
+
+        ],
+        subText: ""
+    },
 }
 
 buildGalleryItem = function(imgSrc, container){
