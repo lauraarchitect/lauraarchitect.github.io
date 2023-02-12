@@ -139,14 +139,14 @@ projectList = {
     },
     "Monarch":{
         name:"Monarch Home",
-        images:[
-            "images/project/Monarch/01.gif",
+        images:[            
+            "images/project/Monarch/07.gif",
+            //"images/project/Monarch/01.gif",
             "images/project/Monarch/02.gif",
             "images/project/Monarch/03.gif",
             "images/project/Monarch/04.gif",
             "images/project/Monarch/05.gif",
             "images/project/Monarch/06.gif",
-            "images/project/Monarch/07.gif",
             "images/project/Monarch/08.gif",
             "images/project/Monarch/09.gif",
             "images/project/Monarch/10.gif",
@@ -161,9 +161,10 @@ projectList = {
     },
     "Pine":{
         name:"Pine Street House",
-        description: "The Pine Street Residence is a design that creates a warm, inviting space without erasing the essence of the original home. When the owners bought this old Victorian house in the Mapleton Hill neighborhood, it had additions and subtractions over the years that had taken some of the charm. It was an interesting study of how to meld the old and new in a way that respects the old house while giving the family the space they need. The original front porch had been removed, but I was able to recreate it from a Historic photo. A low ceiling addition from the 70’s was removed in order to make space for an open Living Room, a new staircase and a Master Suite. The house now stands proud in a way that reflects the past while embracing the now.",
+        description: "The Pine Street Residence is a design that creates a warm, inviting space without erasing the essence of the original home. When the owners bought this old Victorian house in the Mapleton Hill neighborhood, it had additions and subtractions over the years that had taken some of the charm. It was an interesting study of how to meld the old and new in a way that respects the old house while giving the family the space they need. The original front porch had been removed, but I was able to recreate it from a Historic photo. A low ceiling addition from the 70’s was removed in order to make space for an open Living Room, a new staircase and a Primary Suite. The house now stands proud in a way that reflects the past while embracing the now.",
         images:[
             "images/project/911Pine/01.jpg",
+            "images/project/911Pine/05 South Elevation BEFORE.jpg",
             "images/project/911Pine/02.jpg",
             "images/project/911Pine/03.jpg",
             "images/project/911Pine/04.jpg",
