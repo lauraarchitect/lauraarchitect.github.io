@@ -256,8 +256,8 @@ projectList = {
         ],
         subText: "Photos by Dane Cronin Photography"
     },
-    "Shingle":{
-        name:"Shingle House",
+    "MHLandmark":{
+        name:"MH Landmark House",
         description: "",
         images:[
             "images/project/Shingle/07.jpg",
