@@ -8429,6 +8429,7 @@
 
 #wrapper .gallery .inner {
 	margin :10px 0;
+	max-width:900px
 }
 
 #wrapper .gallery article {
