@@ -5,8 +5,10 @@ projectList = {
             "images/project/Awards/SpruceCover.jpg",
             "images/project/Awards/Five Under Forty.jpg",
             "images/project/Awards/1737 Spruce - August 2020.jpg",
+            "images/project/Awards/1737 Spruce - first two pages.jpg",
             "images/project/Awards/911PineBathroom-April2019-2.jpg",
-            "images/project/Awards/PineMagazineCHL.jpg"
+            "images/project/Awards/PineMagazineCHL.jpg",
+            "images/project/Awards/637 Pine in Colorado Homes Jan-Feb 2024.jpg"
         ],
         description:`
         <ul>
@@ -65,6 +67,7 @@ projectList = {
 
     "Highland":{
         name:"Highland Home Remodel",
+        description: "Older homes, like old friends, have something untranslatable one might simply call ‘character.’ When it’s time for a new owner to take over and adapt an older property to the times, surface and structural changes are encouraged as long as the house doesn’t lose its hard-won identity. This beautiful example in Boulder's Mapleton Hill neighborhood is a testament to how an older home can be made new again, and to a vision plus profound respect for what was and what still can be. </br></br> Contractor // Joel Smiley </br> Architecture // Laura Schaeffer Architecture </br> Photos // Dane Cronin",
         images:[
             "images/project/Highland/HighlandMain.jpg",
             "images/project/Highland/01.jpg",
@@ -259,7 +262,7 @@ projectList = {
     },
     "MHLandmark":{
         name:"MH Landmark House",
-        description: "Older homes, like old friends, have something untranslatable one might simply call &lsquo;character.&rsquo; When it’s time for a new owner to take over and adapt an older property to the times, surface and structural changes are encouraged as long as the house doesn’t lose its hard-won identity. This beautiful example in Boulder's Mapleton Hill neighborhood is a testament to how an older home can be made new again, and to a vision plus profound respect for what was and what still can be.",
+        description: "Many vintage homes in older Boulder neighborhoods are worth preserving since they are well-built, full of character and have a distinct personality drawn from generations of use—in short, a kind of soul. </br></br> The particular house, a recent renovation by our firm, was built in 1902 and is a classic example of the once popular “Shingle Style”, typified by a stone arched entrance, square cut shingles and a gabled roofline.  In addition, two charming bay windows and a rounded Palladian window in-laid with leaded glass bring in lots of light. It sits nicely on the lot and has ‘good bones’, justifying a modern day renovation for its current owners who thankfully, respect the past. </br></br> The interior restoration was reliant upon a 21st century aesthetic, the use of quality natural materials, and a casual ease of living. Our goal was to create a bright future for the family that calls this residence home. </br></br> The following views reveal the extent of the renovation from floor to ceiling. </br></br> Contractor // Joel Smiley </br> Architecture // Laura Schaeffer Architecture </br> Interiors // Emily Tucker Design </br> Photos // Dane Cronin and David Lauer",
         images:[
             "images/project/Shingle/A01.jpg",
             "images/project/Shingle/A02.jpg",
