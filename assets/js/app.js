@@ -12,6 +12,10 @@ projectList = {
         ],
         description:`
         <ul>
+            <li>Colorado Homes and Lifestyles, Jan/Feb 2024
+                <a class='externalLink' href='https://www.coloradohomesmag.com/lookingback/' target='_blank'>View Publication</a>
+            </li>
+            <li>Meet the Experts, Home & Garden Colorado, Fall 2022</li>
             <li>The Best Residential Architects in Boulder, Colorado
                 <a class='externalLink' href='https://www.homebuilderdigest.com/the-best-residential-architects-in-boulder-colorado/' target='_blank'>View Publication</a>
             </li>
@@ -332,6 +336,37 @@ projectList = {
             "images/project/Maxwell/32.jpg",
         ],
         subText: ""
+    },
+    "MapletonHillTudor":{
+        name:"Mapleton Hill Tudor",
+        description: "The house is known to some as the Randall-Hickman House and features a unique combination of historic charm and stunning views.  Constructed in 1918 as one of the first homes in Boulder, it was originally designed by architect Arthur E. Saunders as one of the few Colorado Tudor Revivals in the Boulder area. This style of architecture combined the classic Tudor style with the practicality and simplicity of architecture common to the Colorado gold rush. The house underwent a massive rehabilitation and renewal in 2016, staying true to its unique and timeless character. </br></br>Contractor // Joel Smiley </br>Architecture // Laura Schaeffer Architecture",
+        images:[
+            "images/project/MapletonHillTudor/01.jpg",
+            "images/project/MapletonHillTudor/02.jpg",
+            "images/project/MapletonHillTudor/03.jpg",
+            "images/project/MapletonHillTudor/04.jpg",
+            "images/project/MapletonHillTudor/05.jpg",
+            "images/project/MapletonHillTudor/06.jpg",
+            "images/project/MapletonHillTudor/07.jpg",
+            "images/project/MapletonHillTudor/08.jpg",
+            "images/project/MapletonHillTudor/09.jpg",
+            "images/project/MapletonHillTudor/10.jpg",
+            "images/project/MapletonHillTudor/11.jpg",
+            "images/project/MapletonHillTudor/12.jpg",
+            "images/project/MapletonHillTudor/13.jpg",
+            "images/project/MapletonHillTudor/14.jpg",
+            "images/project/MapletonHillTudor/15.jpg",
+            "images/project/MapletonHillTudor/16.jpg",
+            "images/project/MapletonHillTudor/17.jpg",
+            "images/project/MapletonHillTudor/18.jpg",
+            "images/project/MapletonHillTudor/19.jpg",
+            "images/project/MapletonHillTudor/20.jpg",
+            "images/project/MapletonHillTudor/21.jpg",
+            "images/project/MapletonHillTudor/22.jpg",
+            "images/project/MapletonHillTudor/23.jpg",
+            "images/project/MapletonHillTudor/24.jpg",
+            "images/project/MapletonHillTudor/25.jpg",
+        ]
     },
 }
 
