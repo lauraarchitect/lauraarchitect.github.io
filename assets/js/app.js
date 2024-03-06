@@ -450,7 +450,7 @@ for(var i = 0; i < galleryLinks.length; i++) {
         var projectId = e.currentTarget.getAttribute("data-project");
         //alert(projectId)
         //showProject(projectId);
-        window.origin += "/project.html?projectName=" + projectId;
+        window.location = window.origin + "/project.html?projectName=" + projectId;
 
     }, false);
 }
