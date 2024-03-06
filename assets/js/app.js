@@ -12,6 +12,10 @@ projectList = {
         ],
         description:`
         <ul>
+            <li>Local Expert, What is Boulder, CO Known For?
+                <a class='externalLink' href='https://www.redfin.com/blog/what-is-boulder-co-known-for/' target='_blank'>View Publication</a>
+            </li>
+
             <li>Colorado Homes and Lifestyles, Jan/Feb 2024
                 <a class='externalLink' href='https://www.coloradohomesmag.com/lookingback/' target='_blank'>View Publication</a>
             </li>
@@ -446,7 +450,7 @@ for(var i = 0; i < galleryLinks.length; i++) {
         var projectId = e.currentTarget.getAttribute("data-project");
         //alert(projectId)
         //showProject(projectId);
-        window.location += "project.html?projectName=" + projectId;
+        window.origin += "/project.html?projectName=" + projectId;
 
     }, false);
 }
