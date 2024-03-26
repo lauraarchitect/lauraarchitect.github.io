@@ -12,6 +12,10 @@ projectList = {
         ],
         description:`
         <ul>
+            <li>2024 Top Architects-  Colorado Homes and Lifestyles, March 2024
+                <a class='externalLink' href='https://www.coloradohomesmag.com/colorado-2/' target='_blank'>View Publication</a>
+            </li>
+            
             <li>Local Expert, What is Boulder, CO Known For?
                 <a class='externalLink' href='https://www.redfin.com/blog/what-is-boulder-co-known-for/' target='_blank'>View Publication</a>
             </li>
