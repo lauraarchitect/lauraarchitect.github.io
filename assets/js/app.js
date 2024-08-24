@@ -307,6 +307,11 @@ projectList = {
         name:"Maxwell Historic Remodel",
         description: "",
         images:[
+            "images/project/Maxwell/01.jpg",
+            "images/project/Maxwell/02.jpg",
+            "images/project/Maxwell/03.jpg",
+            "images/project/Maxwell/04.jpg",
+            "images/project/Maxwell/05.jpg",
             "images/project/Maxwell/1.jpg",
             "images/project/Maxwell/1b.jpg",
             "images/project/Maxwell/1h.jpg",
